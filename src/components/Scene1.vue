@@ -2,7 +2,6 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
-    <router-link to="/scene1" class="button">Scene1</router-link>
     <router-link to="/scene2">Scene2</router-link>
     <ul>
       <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
